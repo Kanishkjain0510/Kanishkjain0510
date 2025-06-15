@@ -53,7 +53,7 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,c,js,html,css,tailwind,figma,kotlin,git,linux,photoshop,arduino,postgres,mysql,aws,pytorch,tensorflow,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,c,js,html,css,tailwind,figma,kotlin,git,linux,photoshop,arduino,mysql,pytorch,tensorflow,vscode" />
 </p>
 
 ---
